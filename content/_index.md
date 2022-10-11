@@ -1,5 +1,5 @@
 ---
-title: 🪴 Bonjour et Bienvenue.
+title: 🪴 Bonjour et Bienvenue!
 enableToc: true
 ---
 
